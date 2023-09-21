@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "*.uv": "html",
+    "*.muv": "html",
+    "stdio.h": "c",
+    "locale.h": "c",
+    "clocale": "c"
+  }
+}
